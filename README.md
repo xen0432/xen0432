@@ -15,6 +15,9 @@ Hi everyone! My name is Xen, I'm 14 years old and I'm a self-taught programmer. 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xen0432&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=xen0432&theme=dark&hide_border=true)
+## 📊 Statistik GitHub Saya
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xen0432&theme=dark&show_icons=true&hide_border=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=xen0432&theme=dark&hide_border=true" width="48%" />
+</div>
