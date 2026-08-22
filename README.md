@@ -16,6 +16,5 @@ Hi everyone! My name is Xen, I'm 14 years old and I'm a self-taught programmer. 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=xen0432&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=xen0432&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=xen0432&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=xen0432&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=xen0432&theme=dark&hide_border=true)
